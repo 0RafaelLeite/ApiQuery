@@ -1,0 +1,15 @@
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\bin\Debug\net6.0\APIQuery.exe
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\bin\Debug\net6.0\APIQuery.deps.json
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\bin\Debug\net6.0\APIQuery.runtimeconfig.json
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\bin\Debug\net6.0\APIQuery.dll
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\bin\Debug\net6.0\APIQuery.pdb
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.csproj.AssemblyReference.cache
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.AssemblyInfoInputs.cache
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.AssemblyInfo.cs
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.csproj.CoreCompileInputs.cache
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.dll
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\refint\APIQuery.dll
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.pdb
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\APIQuery.genruntimeconfig.cache
+C:\Users\rafael.leite\source\repos\APIQuery\APIQuery\obj\Debug\net6.0\ref\APIQuery.dll
